@@ -1,3 +1,7 @@
+<h2> About </h2>
+As a devoted Software Engineer and Computer Vision Engineer, I am enthusiastic about crafting inventive solutions and pushing the boundaries of technology. With a solid background in software development and expertise in computer vision, I am dedicated to utilizing my abilities to propel advancements and participate in demanding projects. My objective is to apply my skills to solve intricate issues, make a significant difference, and thrive in the constantly evolving tech sector by embracing continuous learning and growth.
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
